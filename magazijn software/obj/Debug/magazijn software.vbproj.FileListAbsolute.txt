@@ -1,0 +1,11 @@
+c:\users\leerling\documents\visual studio 2015\Projects\magazijn software\magazijn software\bin\Debug\magazijn software.exe.config
+C:\Users\leerling\documents\visual studio 2015\Projects\magazijn software\magazijn software\bin\Debug\magazijn software.exe
+C:\Users\leerling\documents\visual studio 2015\Projects\magazijn software\magazijn software\bin\Debug\magazijn software.pdb
+C:\Users\leerling\documents\visual studio 2015\Projects\magazijn software\magazijn software\bin\Debug\magazijn software.xml
+C:\Users\leerling\documents\visual studio 2015\Projects\magazijn software\magazijn software\obj\Debug\magazijn software.vbprojResolveAssemblyReference.cache
+C:\Users\leerling\documents\visual studio 2015\Projects\magazijn software\magazijn software\obj\Debug\magazijn_software.Form1.resources
+C:\Users\leerling\documents\visual studio 2015\Projects\magazijn software\magazijn software\obj\Debug\magazijn_software.Resources.resources
+C:\Users\leerling\documents\visual studio 2015\Projects\magazijn software\magazijn software\obj\Debug\magazijn software.vbproj.GenerateResource.Cache
+C:\Users\leerling\documents\visual studio 2015\Projects\magazijn software\magazijn software\obj\Debug\magazijn software.exe
+C:\Users\leerling\documents\visual studio 2015\Projects\magazijn software\magazijn software\obj\Debug\magazijn software.xml
+C:\Users\leerling\documents\visual studio 2015\Projects\magazijn software\magazijn software\obj\Debug\magazijn software.pdb
